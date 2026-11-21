@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+build/
+dist/
+.dart_tool/
+.idea/
+.vscode/
+.DS_Store
